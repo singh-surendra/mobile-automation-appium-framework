@@ -22,6 +22,7 @@ A simple mobile native apps automation framework with Appium
  - Appium: Open source, most convenient native mobile app automation tool
  - Allure Reports : As it is most clean automation reports and provides lots of useful annotations as well. For better documentation, it has been chosen over other reporting tools
  - Lombok plugin : It provides very simple logging framework as compared to other logging methods
+ - it automatically starts appium server and kills its instance after tests are executed
  
 
 
