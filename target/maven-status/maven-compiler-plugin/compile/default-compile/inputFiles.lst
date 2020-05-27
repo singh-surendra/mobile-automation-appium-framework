@@ -1,0 +1,13 @@
+/Users/surendra.singh/Documents/SuriPersonal/mobile-automation-appium-framework/src/main/java/constants/Constants.java
+/Users/surendra.singh/Documents/SuriPersonal/mobile-automation-appium-framework/src/main/java/dataProviders/ConfigFileReader.java
+/Users/surendra.singh/Documents/SuriPersonal/mobile-automation-appium-framework/src/main/java/screens/login/LoginScreen.java
+/Users/surendra.singh/Documents/SuriPersonal/mobile-automation-appium-framework/src/main/java/utils/MobileActions.java
+/Users/surendra.singh/Documents/SuriPersonal/mobile-automation-appium-framework/src/main/java/screens/search/SearchScreen.java
+/Users/surendra.singh/Documents/SuriPersonal/mobile-automation-appium-framework/src/main/java/commons/ReusableComponentsLocators.java
+/Users/surendra.singh/Documents/SuriPersonal/mobile-automation-appium-framework/src/main/java/utils/MobileBrowserWait.java
+/Users/surendra.singh/Documents/SuriPersonal/mobile-automation-appium-framework/src/main/java/commons/ReusableComponents.java
+/Users/surendra.singh/Documents/SuriPersonal/mobile-automation-appium-framework/src/main/java/base/BaseTest.java
+/Users/surendra.singh/Documents/SuriPersonal/mobile-automation-appium-framework/src/main/java/screens/search/SearchScreenLocators.java
+/Users/surendra.singh/Documents/SuriPersonal/mobile-automation-appium-framework/src/main/java/listeners/TestAllureListener.java
+/Users/surendra.singh/Documents/SuriPersonal/mobile-automation-appium-framework/src/main/java/utils/RandomHelper.java
+/Users/surendra.singh/Documents/SuriPersonal/mobile-automation-appium-framework/src/main/java/screens/login/LoginScreenLocators.java

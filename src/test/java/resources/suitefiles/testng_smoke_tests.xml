@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name=" Login and Search Test Suite">
+
+<suite name="Login and Search Test Suite" verbose="2" thread-count="3">
     <listeners>
         <listener class-name="listeners.TestAllureListener"/>
     </listeners>
     <test name="Tests">
-        <groups>
-            <run>
-                <include name="SMOKE"/>
-            </run>
-        </groups>
         <classes>
             <class name="apptests.LoginTests"/>
             <class name="apptests.SearchTests"/>

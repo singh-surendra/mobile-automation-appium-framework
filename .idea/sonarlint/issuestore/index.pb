@@ -1,0 +1,21 @@
+
+V
+&src/test/java/apptests/LoginTests.java,0/0/00d094cfa4c14b3c7cb31859e0d45ed3fdf3cdaf
+i
+9src/test/java/resources/testrunner/testng_smoke_tests.xml,c/6/c6bef839d08a8d44ebef48c11ed9d25d71e41ba9
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+^
+.src/main/java/configs/Configuration.properties,1/5/1528cc48ed4b6f21ff523f0e6840ceacf9697494
+d
+4src/main/java/screens/login/LoginScreenLocators.java,8/c/8c2c62e28281ebed8c09b60ac6b45aeb02a32620
+f
+6src/main/java/screens/search/SearchScreenLocators.java,0/3/039b4b313c87957a0e11fff3dd1323ef11d3b767
+W
+'src/test/java/apptests/SearchTests.java,c/f/cf1e1140c7dfc582b824bb453b906702a38170a2
+[
++src/test/java/basetest/BaseTestAndroid.java,1/b/1bab6f588fb4fac3c92ae3fed65d63a5441b5cee
+\
+,src/main/java/screens/login/LoginScreen.java,f/c/fcb5ba096e3fa7bb6ec346cbc497367ad3462483
+P
+ src/main/java/base/BaseTest.java,a/1/a1409c3348e128f6b8de3c422846c43706eff0f8
