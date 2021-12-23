@@ -1,5 +1,5 @@
 # mobile-automation-appium-framework
-A simple mobile native apps automation framework with Appium
+A simple mobile native app automation framework with Appium
 
 
 #### Automation Setup guidelines: 
